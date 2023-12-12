@@ -1,7 +1,5 @@
 # CMPE-255-Dimensionality-Reduction
 
-# CMPE-255-Dimensionality-Reduction
-
 This repository showcases various techniques for dimensionality reduction using Python libraries like Scikit-Learn and Spark's MLlib in Databricks.
 
 ## Introduction ℹ️
